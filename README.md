@@ -53,10 +53,10 @@ This repository contains a collection of three notebooks, each tackling a differ
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/deep_learning_projects.git](https://github.com/YOUR_USERNAME/deep_learning_projects.git)
+    git clone https://github.com/rkukreja183/deep_learning_projects
     cd deep_learning_projects
     ```
-    *(Remember to replace `YOUR_USERNAME` with your actual GitHub username)*
+   
 
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -68,11 +68,10 @@ This repository contains a collection of three notebooks, each tackling a differ
     ```bash
     pip install torch transformers pandas numpy jupyter matplotlib librosa
     ```
-    > **Note:** You may need to install other specific libraries for the image projects (like `opencv-python` or `scikit-image`) as prompted by the notebooks.
 
 ---
 
-## 🏃 How to Run the Notebooks
+##  How to Run the Notebooks
 
 1.  Ensure you have completed the [Setup & Installation](#️-setup--installation) steps and have activated your virtual environment.
 
@@ -82,6 +81,6 @@ This repository contains a collection of three notebooks, each tackling a differ
     ```
 
 3.  Once the server opens in your browser, click on one of the project notebooks to get started:
-    * `emotion_classification.ipynb` (or the actual filename)
-    * `automatic_speech_recognition.ipynb` (or the actual filename)
-    * `image_denoising_super_resolution.ipynb` (or the actual filename)
+    * `EmotionClassification.ipynb` (or the actual filename)
+    * `SpeechRecognition.ipynb` (or the actual filename)
+    * `Denoising:SuperResolution.ipynb` (or the actual filename)
